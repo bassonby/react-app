@@ -1,0 +1,9 @@
+.article{
+    background-color: rgb(14, 245, 222);
+    text-align: center;
+    border: 5px solid white;
+    display: inline-block;
+    flex-basis: 100px;
+    height: 75px;
+    flex-grow: 1;  
+}

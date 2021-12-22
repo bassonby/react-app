@@ -1,0 +1,10 @@
+.right_panel,
+.left-panel{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    flex-basis: 170px;
+    height: 75px ;
+    display: inline-block;
+    flex-grow: 1 1 auto;
+} 
